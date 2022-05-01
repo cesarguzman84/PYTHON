@@ -1,0 +1,2 @@
+Realizar un algoritmo que recrre las transacciones de un cajero en un objeto (retirar, consignar, consultar), en el constructor debe inicializar el monto actual de un usuario, por ejemplo $1.000.000
+En el programa principal va a pedir al usuario que desea hacer (retirar, consignar, consultar)
